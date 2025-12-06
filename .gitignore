@@ -1,0 +1,79 @@
+# Build results
+bin/
+obj/
+out/
+artifacts/
+
+# Visual Studio Code
+.vscode/
+.history/
+*.code-workspace
+
+# Rider / JetBrains
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# ASP.NET temporary files
+aspnet-client/
+wwwroot/lib/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Environment variables
+*.env
+
+# Dotnet CLI
+.dotnet/
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+# Publish outputs
+Publish/
+publish/
+*.pubxml
+*.pubxml.user
+
+# Certs
+*.pfx
+*.p12
+
+# Entity Framework Migrations Scripts
+*.sql
+
+# Swagger / OpenAPI generated files
+swagger/
+openapi.json
+openapi.yaml
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+appsettings.Production.json
+secrets.json
